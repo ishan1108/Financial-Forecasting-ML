@@ -6,6 +6,4 @@ Random Forest predicts with higher accuracy.
 
 Team : 
 
-Ishan Patel
-Ishan Patel
-Abhishek Raval
+(1) Ishan Patel (2) Ishan Patel (3) Abhishek Raval
