@@ -3,3 +3,9 @@ This is project is about  a Prediction mechanism, whether the price of Stock Mar
 dataset provided by Yahoo Stocks, using Skicit, Random Forest (Random Decision Forest), SVM (Support Vector Machine),
 Neural Networks,which concludes that Deterministic Datasets where changes are evitable and frequent,
 Random Forest predicts with higher accuracy.
+
+Team : 
+
+Ishan Patel
+Ishan Patel
+Abhishek Raval
